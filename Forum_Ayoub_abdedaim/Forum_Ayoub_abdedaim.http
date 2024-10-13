@@ -1,0 +1,6 @@
+@Forum_Ayoub_abdedaim_HostAddress = http://localhost:5011
+
+GET {{Forum_Ayoub_abdedaim_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
